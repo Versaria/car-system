@@ -30,13 +30,14 @@ car-system/
 ├── src/
 │   ├── main/
 │   │   └── java/com/example/carsystem/
-│   │       ├── CarSystem.java  # Основная логика
-│   │       └── Main.java       # Демонстрация
+│   │       ├── CarSystem.java 
+│   │       └── Main.java 
 │   └── test/
 │       └── java/com/example/carsystem/
-│           └── CarSystemTest.java # Тесты
-├── pom.xml                    # Конфигурация Maven
-└── README.md
+│           └── CarSystemTest.java
+├── LICENSE
+├── README.md
+└── pom.xml 
 ```
 
 ## 📋 Функционал
